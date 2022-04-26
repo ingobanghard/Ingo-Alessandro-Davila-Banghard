@@ -1,5 +1,5 @@
 ![](/images/me.png)
-**ingodavila99@gmail.com  •  +886 933209089  •  Taipei City, Taiwan**
+**ingodavila99@gmail.com  •  +886 933209089  •  Taipei City, Taiwan  •  [LinkedIn](https://www.linkedin.com/in/ingodbanghard/)**
 
 ## PROJECTS
 
