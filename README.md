@@ -1,4 +1,5 @@
 ![](/images/me.png)
+**ingodavila99@gmail.com  •  +886 933209089  •  Taipei City, Taiwan**
 
 ## PROJECTS
 
@@ -11,7 +12,10 @@ This project was created using Python3 and uses various libraries and Google Cal
 ![](/images/project2.png)
 
 ## WORK EXPERIENCE
+![](/images/Work.png)
 
+## EDUCATION, SKILLS, INTERESTS, AND CERTIFICATES 
+![](/images/ESC.png)
 
 
 
