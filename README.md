@@ -7,4 +7,4 @@ This project was created using Python3 and uses three machine learning algorithm
 
 ## [Doggo Virtual Voice Assistant](https://github.com/ingobanghard/Doggo-Virtual-Voice-Assistant-)
 This project was created using Python3 and uses various libraries and Google Calendar’s API to receive voice input from the user and return a function such as time, weather, covid cases status, events in user’s google calendar, take notes based on the user’s voice input, etc. 
-
+![](https://github.com/ingobanghard/Ingo_Portfolio/blob/main/images/Screen%20Shot%202022-04-26%20at%2017.42.32.png)
