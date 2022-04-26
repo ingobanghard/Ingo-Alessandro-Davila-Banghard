@@ -1,4 +1,4 @@
-# IngoPortfolio
+# Ingo's Portfolio
 This is my E-Portfolio showcasing my projects, skills, abilities, work experience, and education.
 
 ## [Prediction of Football Match Results with Machine Learning](https://github.com/ingobanghard/Prediction-of-Football-Match-Results-with-Machine-Learning)	
