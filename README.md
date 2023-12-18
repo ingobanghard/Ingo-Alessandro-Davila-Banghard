@@ -17,7 +17,7 @@ This project was developed in Unity with C# and VR SDKs allowing users to play b
 
 ## WORK EXPERIENCE
 ![](/images/Work.png)
-#### U-Star\  			                     							                         March 2023 – Current\
+#### U-Star <br/>  			                     							                         March 2023 – Current <br />
  _English Teacher --						                      	                  		     Taipei, Taiwan_\
 • Teach English, Cooking, Sports, and Science classes w/ 15-20 students per class.\ 
 • Write scripts & copywriting material for their social media.\
@@ -26,7 +26,7 @@ This project was developed in Unity with C# and VR SDKs allowing users to play b
 _Data Analyst & Programmer --							                      	                  Taipei, Taiwan_\
 • Leverage database data to generate useful insights with big data mining skills.\
 • Analyze metrics, make correlations and time series to draw relevant conclusions.\
-• Apply Classification methods & write various Python scripts.\
+• Apply Classification methods & write various Python scripts.
 
 ## EDUCATION, SKILLS, INTERESTS, AND CERTIFICATES 
 ![](/images/ESC.png)
