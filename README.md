@@ -20,8 +20,10 @@ This project was developed in Unity with C# and VR SDKs allowing users to play b
 ![](/images/Work2.png)
 ![](/images/Work3.png)
 
-## EDUCATION, SKILLS, INTERESTS, AND CERTIFICATES 
-![](/images/ESC.png)
+## EDUCATION 
+![](/images/Education.png)
 
+## SKILLS & INTERESTS  
+![](/images/SnI.png)
 
 
