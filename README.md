@@ -17,7 +17,7 @@ This project was developed in Unity with C# and VR SDKs allowing users to play b
 
 ## WORK EXPERIENCE
 ![](/images/Work.png)
-![](/images/Work2.png)
+![](/images/WorkUstar.png)
 ![](/images/Work3.png)
 
 ## EDUCATION 
