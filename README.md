@@ -17,15 +17,17 @@ This project was developed in Unity with C# and VR SDKs allowing users to play b
 
 ## WORK EXPERIENCE
 ![](/images/Work.png)
-#### U-Star <br/>  			                     							                         March 2023 – Current <br />
- _English Teacher --						                      	                  		     Taipei, Taiwan_\
-• Teach English, Cooking, Sports, and Science classes w/ 15-20 students per class.\ 
-• Write scripts & copywriting material for their social media.\
+#### U-Star <br/>  			                     							                        
+_ March 2023 – Current_ <br/>
+ _English Teacher --						                      	                  		     Taipei, Taiwan_<br/> 
+• Teach English, Cooking, Sports, and Science classes w/ 15-20 students per class.<br/>  
+• Write scripts & copywriting material for their social media.<br/> 
 • Total of 18 to 23 hours per week.\
-#### CreatorDB\			             		        						                        June 2023 - Current\
-_Data Analyst & Programmer --							                      	                  Taipei, Taiwan_\
-• Leverage database data to generate useful insights with big data mining skills.\
-• Analyze metrics, make correlations and time series to draw relevant conclusions.\
+#### CreatorDB <br/> 			             		        						                        
+_June 2023 - Current_<br/> 
+_Data Analyst & Programmer --							                      	                  Taipei, Taiwan_<br/> 
+• Leverage database data to generate useful insights with big data mining skills.<br/> 
+• Analyze metrics, make correlations and time series to draw relevant conclusions.<br/> 
 • Apply Classification methods & write various Python scripts.
 
 ## EDUCATION, SKILLS, INTERESTS, AND CERTIFICATES 
